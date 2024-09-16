@@ -1,4 +1,7 @@
 # Fish-Job-Bot
+
+I am adding text here because I dont understand how to do merge requests
+
 A tool I used fish Year at A&amp;M to notify people in the morning when it was their turn to do a job. Pretty inefficient but it is what it is
 
 
